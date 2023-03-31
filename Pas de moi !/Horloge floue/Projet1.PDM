@@ -1,0 +1,96 @@
+[Root]
+Most Recent Package=Logiciel d'installation standard 1
+
+[Package|Logiciel d'installation standard 1|Démarrage]
+Icon1=HorlogeFloue.exe
+Title1=Horloge Floue
+StartIn1=$(AppPath)
+Key1=Icon3
+
+
+[Package|Logiciel d'installation standard 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\Package
+
+[Package|Logiciel d'installation standard 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Logiciel d'installation standard 1|Files Found]
+
+[Package|Logiciel d'installation standard 1|Files Released]
+
+[Package|Logiciel d'installation standard 1|Missing Dependency Information]
+
+[Package|Logiciel d'installation standard 1|Out-of-Date Dependency Information]
+
+[Package|Logiciel d'installation standard 1|Files Added]
+
+[Package|Logiciel d'installation standard 1|Files Removed]
+
+[Package|Logiciel d'installation standard 1|Files In Project]
+C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\HorlogeFloue.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Logiciel d'installation standard 1|Configure Registry Files]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Install Locations]
+C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\HorlogeFloue.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Logiciel d'installation standard 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\HorlogeFloue.exe=No
+
+[Package|Logiciel d'installation standard 1|Distribution]
+Type=single
+Size=
+Title=Horloge Floue
+
+[Package|Logiciel d'installation standard 1|IconGroups]
+Group0=Démarrer
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Logiciel d'installation standard 1|Démarrer]
+Icon1=HorlogeFloue.exe
+Title1=Horloge Floue
+StartIn1=$(AppPath)
+Key1=Icon4
+
+[Package|Logiciel d'installation standard 1|Package]
+PackageFolder=C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\Package
+ProjectFolder=C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue
+ServerSideCab=
+File1=C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\Package\setup.exe
+File2=C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\Package\Setup.Lst
+File3=C:\Documents and Settings\Christophe\Bureau\Travaux\Projet VB\Horloge Floue\Package\HorlogeFloue.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

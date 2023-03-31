@@ -1,0 +1,7 @@
+frmMain = 44, 58, 643, 544, , 22, 29, 621, 515, C
+modGraphique = 0, 0, 0, 0, C
+modTetris = 0, 0, 0, 0, C
+CPiece = 88, 116, 687, 602, C
+CJoueur = 12, 145, 709, 680, 
+modConstantes = 0, 0, 0, 0, C
+modAudio = 66, 87, 665, 573, 

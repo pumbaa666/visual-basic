@@ -1,0 +1,9 @@
+[Général]
+Nom = MaSuperCarte
+pathsubtile = \map.map
+pathsurtile = map2.map
+longueurmapx = 19
+longueurmapy = 13
+Musique = 
+------------------
+Ce sont les paramètres de la carte.

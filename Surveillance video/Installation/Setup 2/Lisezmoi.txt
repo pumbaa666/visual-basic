@@ -1,0 +1,2 @@
+Si l'installation ne commence pas et/ou marque un message d'erreur,
+exécutez le Setup.bat présent sur la 2ème disquette d'installation.

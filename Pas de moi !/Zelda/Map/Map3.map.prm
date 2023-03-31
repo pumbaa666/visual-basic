@@ -1,0 +1,24 @@
+[Général]
+Nom = MaSuperCarte
+
+[Init]
+posmonde_X =320
+posmonde_Y = 0
+
+[Longueurs]
+
+Map_X="30"
+Map_Y = "39"
+
+[Son]
+filename ="\musiques\z3woods.mid"
+
+[Warp_Général]
+nbrWarp = 1
+
+[Warp_1]
+X =0
+Y = 8
+DestMap = "\map\Map2.map"
+X2 =-156
+Y2 = -63

@@ -1,0 +1,168 @@
+  1  Quelle est la capitale de la France?  
+  2  Quelle est la capitale de l'Espagne?           
+  3  Quelle est la capitale de l'Italie?                 
+  4  Quelle est la capitale de la Bielorussie?           
+  5  Quelle est la capitale du Portugal?                 
+  6  Quelle est la capitale de la Grande-Bretagne?             
+  7  Quelle est la capitale du Canada?                   
+  8  Quelle est la capitale des Pays Bas?                
+  9  Quelle est la capitale de l'Allemagne?              
+ 10 Quelle est la capitale de la Russie?                
+ 11 Quelle est la capitale de l'Irlande?                
+ 12 Quelle est la capitale de la Belgique?              
+ 13 Quelle est la capitale de l'Irak?                   
+ 14 Quelle est la capitale du Japon?                    
+ 15 Quelle est la capitale de la Pologne?               
+ 16 Quelle est la capitale de l'Afghanistan?            
+ 17 Quelle est la capitale du Liban?                    
+ 18 Quelle est la capitale de la Colombie?              
+ 19 Quelle est la capitale de la Chine?                 
+ 20 Quelle est la capitale de l'Argentine?              
+ 21 Quelle est la capitale du Vietnam?                 
+ 22 Quelle est la capitale de la Corée du Sud?          
+ 23 Quelle est la capitale de l'Algérie?                
+ 24 Quelle est la capitale de la Finlande?              
+ 25 Quelle est la capitale du Danemark?                 
+ 26 Quelle est la capitale de la Norvège?               
+ 27 Quelle est la capitale de l'islande?                
+ 28 Quelle est la capitale de la Yougoslavie?           
+ 29 Quelle est la capitale de la Turquie?               
+ 30 Quelle est la capitale du Chili?                    
+ 31 Quelle est la capitale du Pérou?                    
+ 32 Quelle est la capitale du Venezuela?                
+ 33 Quelle est la capitale de la Mauritanie?            
+ 34 Quelle est la capitale de l'Australie?              
+ 35 Quelle est la capitale de la Libye?                 
+ 36 Quelle est la capitale du Soudan?                   
+ 37 Quelle est la capitale de l'Albanie?                
+ 38 Quelle est la capitale de l'Arménie?                
+ 39 Quelle est la capitale de l'Arabie Saoudite?        
+ 40 Quelle est la capitale de l'Autriche ?              
+ 41 Quelle est la capitale du Benin?                    
+ 42 Quelle est la capitale de la Birmanie?              
+ 43 Quelle est la capitale de la Bosnie-Herzegovine ?   
+ 44 Quelle est la capitale du Botswana?                 
+ 45 Quelle est la capitale de la Lituanie?              
+ 46 Quelle est la capitale de la Bulgarie?              
+ 47 Quelle est la capitale de l'Egypte?                 
+ 48 Quelle est la capitale du Gabon?                    
+ 49 Quelle est la capitale du Kazakhstan?               
+ 50 Quelle est la capitale de la Grèce?                 
+ 51 Quelle est la capitale de la Suisse?                 
+ 52 Quelle est la capitale du Mali?                     
+ 53 Quelle est la capitale de l'Angola?                 
+ 54 Quelle est la capitale de l'Azerbaîdjan?            
+ 55 Quelle est la capitale du Bangladesh?               
+ 56 Quelle est la capitale de la Bolivie?               
+ 57 Quelle est la capitale du Burkina?                  
+ 58 Quelle est la capitale du Burundi?                  
+ 59 Quelle est la capitale du Cambodge?                 
+ 60 Quelle est la capitale du Cameroun?                 
+ 61 Quelle est la capitale de Chypre?                   
+ 62 Quelle est la capitale de la Corée du Nord?         
+ 63 Quelle est la capitale du Costa Rica?               
+ 64 Quelle est la capitale de la Côte d'Ivoire?         
+ 65 Quelle est la capitale de la Croatie?              
+ 66 Quelle est la capitale de Cuba?                     
+ 67 Quelle est la capitale de l'Estonie?                
+ 68 Quelle est la capitale des Etats-Unis?              
+ 69 Quelle est la capitale de l'Ethiopie?               
+ 70 Quelle est la capitale de la Gambie?                
+ 71 Quelle est la capitale du Ghana?                    
+ 72 Quelle est la capitale du Guatemala?                
+ 73 Quelle est la capitale de la Guinée?                
+ 74 Quelle est la capitale du Honduras?                 
+ 75 Quelle est la capitale de la Hongrie?               
+ 76 Quelle est la capitale de l'Indonésie?              
+ 77 Quelle est la capitale de l'Iran?                   
+ 78 Quelle est la capitale d'israël?                    
+ 79 Quelle est la capitale de la Jamaique?              
+ 80 Quelle est la capitale de la Jordanie?              
+ 81 Quelle est la capitale du Koweït?                   
+ 82 Quelle est la capitale du Kenya?                    
+ 83 Quelle est la capitale du Liberia?                  
+ 84 Quelle est la capitale du Liechtenstein?            
+ 85 Quelle est la capitale de la Lettonie?              
+ 86 Quelle est la capitale du Luxembourg?               
+ 87 Quelle est la capitale de la Macedoine?             
+ 88 Quelle est la capitale de Madagascar?               
+ 89 Quelle est la capitale de la Malaisie?              
+ 90 Quelle est la capitale des Fidji?                    
+ 91 Quelle est la capitale de Malte?                    
+ 92 Quelle est la capitale du Maroc?                    
+ 93 Quelle est la capitale du Mexique?                  
+ 94 Quelle est la capitale de la Moldavie?              
+ 95 Quelle est la capitale de la Mongolie?              
+ 96 Quelle est la capitale du Mozambique?               
+ 97 Quelle est la capitale de la Namibie?               
+ 98 Quelle est la capitale du Nepal?                    
+ 99 Quelle est la capitale du Nicaragua?                
+100 Quelle est la capitale du Nigeria?                  
+101 Quelle est la capitale de la Nouvelle-Zelande?      
+102 Quelle est la capitale de l'Ouganda?                
+103 Quelle est la capitale du Pakistan?                 
+104 Quelle est la capitale de Panama?                   
+105 Quelle est la capitale du Paraguay?                 
+106 Quelle est la capitale des Philippines?             
+107 Quelle est la capitale ded la Roumanie?             
+108 Quelle est la capitale du Qatar?                    
+109 Quelle est la capitale du Salvador?                 
+110 Quelle est la capitale du Rwanda?                   
+111 Quelle est la capitale du Senegal?                  
+112 Quelle est la capitale de la Slovaquie?             
+113 Quelle est la capitale de la Slovenie?              
+114 Quelle est la capitale de la Somalie?               
+115 Quelle est la capitale du Sri Lanka?                
+116 Quelle est la capitale du Suriname?                 
+117 Quelle est la capitale de la Syrie?                 
+118 Quelle est la capitale du Tadjikistan?              
+119 Quelle est la capitale de la Taïlande?             
+120 Quelle est la capitale de l'Uruguay?                
+121 Quelle est la capitale de la Tanzanie?              
+122 Quelle est la capitale du Tchad?                    
+123 Quelle est la capitale du Togo?                     
+124 Quelle est la capitale de la Tunisie?               
+125 Quelle est la capitale du Yemen?                    
+126 Quelle est la capitale du Zimbabwe?                 
+127 Quelle est la capitale de l'Ukraine?                
+128 Quelle est la capitale de la Zambie? 
+129 Quelle est la capitale de la principauté d'Andorre?
+130 Quelle est la capitale d'Antigua-et-Barbuda?
+131 Quelle est la capitale des Bahamas?
+132 Quelle est la capitale de Bhareïn?  
+133 Quelle est la capitale du Brésil?
+134 Quelle est la capitale de l'Equateur?
+135 Quelle est la capitale de l'Inde?
+136 Quelle est la capitale de la République Démocratique du Congo?
+137 Quelle est la capitale du Laos?
+138 Quelle est la capitale du Niger?
+139 Quelle est la capitale de la République Tchèque?
+140 Quelle est la capitale de la Sierra Leone?
+141 Quelle est la capitale du Swaziland?
+142 Quelle est la capitale du Turkmenistan? 
+143 Quelle est la capitale des Seychelles?
+144 Quelle est la capitale de Sainte-Lucie?
+145 Quelle est la capitale de Saint-Vincent-et-les Grenadines?
+146 Quelle est la capitale de Vanuatu?
+147 Quelle est la capitale du Tuvalu?
+148 Quelle est la capitale de Trinité-et-Tobago?
+149 Quelle est la capitale de la Tonga?
+150 Quelle est la capitale de Taiwan?
+151 Quelle est la capitale de Singapour?
+152 Quelle est la capitale de Säo Tomé et Principe?
+153 Quelle est la capitale de Samoa?
+154 Quelle est la capitale des îles Salomon?
+155 Quelle est la capitale de Saint-Marin?
+156 Quelle est la capitale de Saint-Kitts-et-Nevis?
+157 Quelle est la capitale de la Papouasie-Nouvelle-Guinée?
+158 Quelle est la capitale du Palau?
+159 Quelle est la capitale de Nauru?
+160 Quelle est la capitale de la Micronésie?
+161 Quelle est la capitale de Maurice?
+162 Quelle est la capitale de Monaco?
+163 Quelle est la capitale ds îles Marshall?
+164 Quelle est la capitale du Lesotho?
+165 Quelle est la capitale de Dominique?
+166 Quelle est la capitale de la République Dominicaine?
+167 Quelle est la capitale de l'Erythrée?
+168 Quelle est la capitale du Congo?               

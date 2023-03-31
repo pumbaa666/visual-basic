@@ -1,0 +1,168 @@
+100  Abuja
+ 71  Accra
+141  Achgabat
+ 69  Addis-Abeba
+108  Aldovha
+ 23  Alger
+ 80  Amman
+  8  Amsterdam
+129  Andorre-la-vieille
+ 29  Ankara
+ 88  Antananarivo
+153  Apia
+105  Asancion
+167  Asmara
+ 49  Astana
+ 50  Athènes
+ 13  Bagdad
+ 54  Bakou
+ 52  Bamako
+119  Bangkok
+ 70  Banju 
+156  Basseterre
+ 28  Belgrade
+  9  Berlin
+ 51  Berne 
+ 17  Beyrouth
+ 18  Bogota
+133  Brasilia
+112  Bratislava
+168  Brazaville 
+ 12  Bruxelles
+107  Bucarest 
+ 75  Budapest
+ 20  Buenos Aires
+ 58  Bujambura
+ 34  Cambera
+ 73  Canakry
+ 32  Caracas
+144  Castries
+ 94  Chisinâu
+115  Colombo
+ 25  Copenhague
+ 55  Dacca
+111  Dakar
+117  Damas
+121  Dar es Salaam
+ 11  Dublin
+118  Duchambe
+ 38  Erevan
+140  Freetown
+147  Funafuti
+ 44  Gaborone
+ 72  Guatemala City
+ 21  Hanoï
+126  Harare
+ 24  Helsinki
+154  Honaria
+103  Islamabad
+ 76  Jakarta
+ 78  Jérusalem
+102  Kampala
+ 98  Katmandou
+ 16  Khaboul
+ 36  Khartoum
+127  Kiev 
+110  Kigali
+ 79  Kingston
+145  Kingstown
+136  Kinshasa
+158  Koror
+ 81  Koweït City
+ 89  Kwala Lumpur
+ 66  La Havane 
+ 56  La Paz 
+ 91  La Valette
+ 47  Le Caire
+ 48  Libreville
+ 31  Lima
+  5  Lisbonne
+113  Ljubljana 
+  6  Londres 
+123  Lonné
+ 53  Luanda
+128  Lusaka
+ 86  Luxembourg
+  2  Madrid
+163  Majuro
+ 99  Managua
+132  Manama
+106  Manille
+ 96  Maputo
+164  Maseru
+141  Mbabane
+ 93  Mexico
+  4  Minsk
+162  Monaco
+120  Montevideo
+ 83  Morrovia
+ 10  Moscou
+114  Muqdisho
+122  N'Djamena
+ 82  Nairobi
+131  Nassau
+135  New Dheli
+138  Niamey
+ 61  Nicosie
+ 33  Nouakchott
+149  Nukualofa
+ 26  Oslo
+  7  Ottawa
+ 57  Ouagadougou
+ 95  Oulan-Bator
+160  Palikir
+104  Panama city
+  1  Paris
+116  Parnanaribo
+ 19  Pekin
+ 59  Phnon Penth
+161  Port Louis
+157  Port Moresby 
+148  Port of Spain
+146  Port-vila
+ 41  Porto-Novo
+139  Prague
+ 62  Pyongyang
+134  Quito
+ 92  Rabbat
+ 42  Rangoon
+ 27  Reykjavik
+ 85  Riga
+ 39  Riyad
+  3  Rome
+165  Roseau
+130  Saint John's
+166  Saint-Dominique
+155  Saint-Marin
+ 63  San José
+109  San Salvador
+125  Sanoa
+ 30  Santiago
+ 43  Sarajevo
+ 22  Seoul
+151  Singapour
+ 87  Skopje
+ 46  Sofia
+ 90  Suva
+152  Säo Tomé
+150  Taipei
+ 67  Tallin
+ 74  Tegucigalpa
+ 37  Tirana
+ 14  Tokyo
+ 35  Tripoli
+124  Tunis
+ 77  Téhéran
+ 84  Vaduz
+ 15  Varsovie
+143  Victoria
+ 40  Vienne
+137  Vientiane
+ 45  Vilnius
+ 68  Washington 
+101  Wellington 
+ 97  Windhoek
+ 60  Yahundé
+ 64  Yamoussoukro
+159  Yaren
+ 65  Zagreb    

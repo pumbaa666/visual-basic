@@ -1,0 +1,24 @@
+Sachant que la barre de la flèche commence en x1, Y1
+Qu'elle aboutit en x2,y2
+Sachant que la pointe de la flèche fait un angle de 30° = Pi / 3 radian (pour VB)
+
+-1- Angle que fait la flèche avec l'horizontale :
+Sin = y1-Y2
+Cos = x1-X2
+(hypothénuse) Hyp^2 = Sin^2 + Cos^2
+Sin(Angle) = Sin / Hyp
+--> Angle = arcSin(Sin / Hyp)
+
+-2- Angle que doit faire la Pointe à 30° de l'horizontale
+AnglePointe = Angle + Pi/3
+
+-3- Coordonnée de la pointe :
+La pointe commence donc en x2,y2 et fini en x3,y3
+La longueur de la pointe est Poi
+x3 = x2 - (Poi * Sin(AnglePointe))
+y3 = y2 - (Poi * Cos(AnglePointe))
+
+et tu fais pareil avec l'autre pointe en jouant avec les + et les -
+
+Voilà.
+Jack pour www.vbFrance.com

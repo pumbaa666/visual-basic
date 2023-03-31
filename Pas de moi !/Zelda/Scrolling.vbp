@@ -1,0 +1,116 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\..\..\..\WINDOWS\System32\stdole2.tlb#OLE Automation
+Reference=*\G{E1211242-8E94-11D1-8808-00C04FC2C602}#1.0#0#..\..\..\..\..\..\..\..\..\WINDOWS\System32\dx7vb.dll#DirectX 7 for Visual Basic Type Library
+Form=Form1.frm
+Module=Mod_DD; Mod_DD.bas
+Class=keyboard; Keyboard.cls
+Module=Mod_INI; Mod_INI.bas
+Form=Form2.frm
+Module=Mod_INVENTAIRE; Mod_INVENTAIRE.bas
+Module=Mod_PERSO; Mod_PERSO.bas
+Module=Mod_ENNEMIS; Mod_ENNEMIS.bas
+IconForm="Form2"
+Startup="Form2"
+HelpFile=""
+Title="Scrolling"
+ExeName32="Scrolling.exe"
+Command32=""
+Name="Scrolling"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="Moaaaaaaa!!! (& Co!)"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[TaskList]
+Num=12
+
+[TASK1]
+Description=Bug
+Status=2
+Priority=1
+Comment=kan => espace & pas devan char, txt apar kan mm
+AssignedTo=
+
+[TASK2]
+Description=System de collision avec .map+bug
+Status=0
+Priority=0
+
+[TASK3]
+Description=Animation du perso
+Status=1
+Priority=1
+AssignedTo=
+Comment=
+
+[TASK4]
+Description=FORE map
+Status=0
+Priority=1
+
+[TASK5]
+Description=+ de tiles
+Status=1
+Priority=1
+
+[TASK6]
+Description=ARC
+Status=0
+Priority=1
+
+[TASK7]
+Description=coffres
+Status=0
+Priority=1
+
+[TASK8]
+Description=Hautes herbes
+Status=0
+Priority=2
+
+[TASK9]
+Description=transition entre map
+Status=0
+Priority=1
+
+[TASK10]
+Description=script
+Status=1
+Priority=1
+Comment=voir fichier txt sur les scripts en cours d'écriture...
+AssignedTo=
+
+[TASK11]
+Description=animation lors de destruction des buissons
+Status=0
+Priority=1
+
+[TASK12]
+Description=bombes
+Status=1
+Priority=2
+Comment=manque l'anim d'explosion  Il faut trouver des images d'explosions
+AssignedTo=

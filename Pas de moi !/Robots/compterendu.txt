@@ -1,0 +1,75 @@
+Résultat du match du : 16.11.2004 17:41:48
+
+Tour : 1 Instruction : 1
+BersekOne poursuit DeepBlue 
+HoraceAlpha poursuit Terminator
+DeepBlue  tente de placer une mine et réussi
+Terminator utilise son radar et repère HoraceAlpha à une distance de 4
+Terminator tente de placer une mine et réussi
+
+
+BersekOne		1496	21,5
+HoraceAlpha		1496	8,15
+DeepBlue 		1490	20,2
+Terminator		1486	10,19
+
+
+Tour : 2 Instruction : 2
+BersekOne poursuit DeepBlue 
+HoraceAlpha utilise son radar et repère Terminator à une distance de 4
+HoraceAlpha tir horizontalement
+DeepBlue  poursuit BersekOne
+Terminator utilise son radar et repère HoraceAlpha à une distance de 4
+Terminator tente de placer une mine et réussi
+
+
+BersekOne		1492	20,4
+HoraceAlpha		1489	8,15
+DeepBlue 		1486	20,3
+Terminator		1472	10,19
+
+
+Tour : 3 Instruction : 3
+BersekOne tente de placer une mine et réussi
+HoraceAlpha se déplace aléatoirement
+DeepBlue  utilise son radar et repère BersekOne à une distance de 1
+DeepBlue  tir horizontalement
+Terminator poursuit HoraceAlpha
+
+
+BersekOne		1482	20,4
+HoraceAlpha		1488	7,15
+DeepBlue 		1479	20,3
+Terminator		1468	9,18
+
+
+Tour : 4 Instruction : 4
+BersekOne poursuit DeepBlue 
+HoraceAlpha utilise son radar et repère Terminator à une distance de 3
+HoraceAlpha tir horizontalement
+DeepBlue  poursuit BersekOne
+Terminator fuit HoraceAlpha
+
+
+BersekOne		1482	20,4
+HoraceAlpha		1481	7,15
+DeepBlue 		1479	20,3
+Terminator		1464	10,19
+
+
+Tour : 5 Instruction : 5
+BersekOne utilise son radar et repère DeepBlue  à une distance de 1
+BersekOne tir horizontalement
+HoraceAlpha utilise son radar et ne repère rien
+HoraceAlpha se déplace aléatoirement
+DeepBlue  utilise son radar et repère BersekOne à une distance de 1
+DeepBlue  tir horizontalement
+Terminator tente de placer une mine et échoue
+
+
+BersekOne		1475	20,4
+HoraceAlpha		1476	8,15
+DeepBlue 		1472	20,3
+Terminator		1464	10,19
+
+
